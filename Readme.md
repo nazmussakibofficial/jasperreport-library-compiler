@@ -1,4 +1,4 @@
-### Clone the repo and set environemntal variables
+### Clone the repo, extract ant.zip and set environemntal variables
 ```
 ## JAVA Path
 export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
